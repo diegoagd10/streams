@@ -16,3 +16,4 @@ object Main extends App {
   println("nümero: ")
   multiple(readInt())
 }
+
